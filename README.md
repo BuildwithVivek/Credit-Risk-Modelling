@@ -1,6 +1,6 @@
 # Credit Risk Modelling | Calculation of PD, LGD, EDA and EL with Machine Learning in Python  
 
-![python-shield](https://forthebadge.com/images/badges/made-with-python.svg)
+
 
 ## Table of contents
 * [Background](#background)
@@ -105,35 +105,4 @@ Or, the github project can be readily loaded on [colab-google](https://colab.res
 
 ## Getting Started
 
-To run this project, 
-1. Clone the repo:
-   ```sh
-   git clone https://github.com/levist7/Credit_Risk_Modelling.git
-   ```
-2. Install [packages](#technologies)
 
-3. Install python libraries
-   ```sh
-   pip3 install -r requirements.txt
-   ```
-   
-## Top-directory layout
-
-    .
-    ├── NoteBooks               # Jupyter notebooks   
-    ├── src                     # Scripts on functions 
-    ├── data                    # Datasets (some data are stored in Gdrive)    
-    ├── LICENSE
-    ├── README.md 
-    └── requirements.txt
-
-## License
-
-Distributed under the MIT License. See LICENSE.txt for more information.
-
-## Author  
-
-* [levist7](https://github.com/levist7)
----
-Made with ❤️ in Paris
----
